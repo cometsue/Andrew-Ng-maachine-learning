@@ -1,2 +1,2 @@
-# Andrew-Ng-machine-learning
+# Andrew Ng machine learning
 Notes of machine learing
